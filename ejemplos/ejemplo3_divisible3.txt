@@ -1,0 +1,14 @@
+Simbolos: 0,1
+Estados: R0,R1,R2
+Estado inicial: R0
+Estados de aceptación: R0
+Transiciones:
+R0,R1
+R2,R0
+R1,R2
+Cadenas a analizar:
+1,1
+1,0,0,1
+1,0,1
+1,1,1,1
+1,1,0,1

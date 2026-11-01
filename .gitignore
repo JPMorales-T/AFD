@@ -1,0 +1,10 @@
+# Entorno virtual y caché de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Archivos generados por construir_instalador.bat
+build/
+dist/
+salida_instalador/
+documentacion/capturas/
